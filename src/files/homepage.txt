@@ -1,6 +1,12 @@
 ..
 home page
 
+
+
+
+
+
+
 loading
 
 page
